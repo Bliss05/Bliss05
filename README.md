@@ -9,6 +9,11 @@
 
 - 📫 How to reach me **hi@hifisher.uk**
 
+<p>
+  <img src ="https://github-readme-stats.vercel.app/api?username=Bliss05&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Bliss05&layout=compact&hide_border=true&langs_count=8&theme=dark">
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
